@@ -21,7 +21,7 @@ Il **renderer originale** (`SimpleGLRenderer`, `BatchGLRenderer`, `glGraphics` e
 Le risorse (`data/raw`) sono quelle della versione Android italiana, con i pulsanti e le schede già tradotti. `data/raw_ids.txt` collega gli ID Android delle risorse ai file.
 
 ## File pronti
-Lo zip pronto per Windows è nelle **Releases** del repository: `Grabatron_PC_Windows.zip`. Estrai tutto e avvia `Grabatron.exe`. Java è incluso, non serve installare nulla. Istruzioni e comandi sono in `LEGGIMI.txt`.
+Lo zip pronto per Windows è in `release/Grabatron_PC_Windows.zip`. Estrai tutto e avvia `Grabatron.exe`. Java è incluso, non serve installare nulla. Istruzioni e comandi sono in `LEGGIMI.txt`.
 
 ## Comandi
 | | Tastiera / mouse | Controller |
@@ -56,6 +56,7 @@ data/      risorse del gioco (texture tradotte, suoni, musiche), icona, tabella 
 launcher/  Grabatron.exe e il suo sorgente C, con l'icona
 test/      script per il collaudo automatico
 tools/     LinkCheck.java
+release/   Grabatron_PC_Windows.zip pronto da usare
 ```
 
 Il progetto Android/Chromebook (smali, traduzione, script delle texture) è nel repository `grabatron-android-ita`.
