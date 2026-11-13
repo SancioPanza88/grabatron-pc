@@ -1,0 +1,9 @@
+380 click 284 142
+460 shot g1
+470 click 400 160
+560 shot g2
+570 click 284 290
+660 shot g3
+670 click 284 290
+760 shot g4
+780 quit

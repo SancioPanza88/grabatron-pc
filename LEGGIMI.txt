@@ -1,0 +1,40 @@
+GRABATRON - versione PC (Windows) in italiano
+==============================================
+
+AVVIO
+  1. Estrai TUTTO lo zip in una cartella (es. Documenti\Grabatron).
+  2. Fai doppio clic su Grabatron.exe.
+  Non serve installare Java: e' gia' incluso nella cartella "jre".
+  Se Windows mostra "PC protetto da Windows", clicca "Ulteriori informazioni" > "Esegui comunque"
+  (l'exe non e' firmato digitalmente).
+
+SCHERMO
+  F11 oppure Alt+Invio : schermo intero / finestra
+  La finestra si puo' ridimensionare liberamente.
+  Per partire gia' a schermo intero: crea un collegamento a Grabatron.exe e aggiungi --fullscreen
+
+TASTIERA E MOUSE
+  WASD / Frecce   muovi il disco volante
+  Spazio          artiglio (prendi / lascia)
+  F / Ctrl        arma
+  Shift           movimento lento e preciso
+  Esc / P         pausa (premi di nuovo per riprendere) / indietro nei menu
+  Mouse           clic sui menu, oppure trascina come il dito sul telefono
+
+CONTROLLER (Xbox, PS4, PS5, Switch Pro, 8BitDo e molti altri)
+  Stick sinistro / Croce   muovi (nei menu muove la freccia)
+  A / Croce                artiglio (nei menu: clic)
+  B / Cerchio              arma (nei menu: indietro)
+  X, Y, RB, RT             arma
+  LB, LT                   movimento lento
+  Start / Options          pausa e ripresa
+
+SALVATAGGI
+  %APPDATA%\Grabatron
+
+PROBLEMI
+  Se il gioco si chiude con un errore, apri grabatron.log (nella cartella del gioco).
+  Serve una scheda video con OpenGL 2.1 o superiore (qualsiasi PC degli ultimi 15 anni).
+
+Negozio, video pubblicitari e Facebook del gioco originale non esistono piu':
+i cristalli si guadagnano giocando.

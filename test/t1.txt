@@ -1,0 +1,5 @@
+30 shot f030
+120 shot f120
+240 shot f240
+400 shot f400
+420 quit
